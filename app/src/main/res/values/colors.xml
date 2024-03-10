@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appbackground">#000000</color>
+    <color name="colorNotification">#000000</color>
+    <color name="titleSelected">#8CE1EB</color>
+    <color name="sending_bubble">#C4FAB7</color>
+    <color name="incoming_bubble">#DDDDDD</color>
+    <color name="Whatsapp_text">#89FF00</color>
+    <color name="toolbar_contents">#E1DBDB</color>
+    <color name="settings_contents">#E1DBDB</color>
+    <color name="yellow_tint">#FBE946</color>
+
+
+
+
+
+</resources>
